@@ -8,10 +8,10 @@
 
 ### Görev 1: Projeyi Kurun
 
-- [ ] Forklayın, klonlayın, klasöre girin.
-- [ ] `npx create-react-app kullanici-katilimi` komutuyla boş bir çalışma başlatın.
-- [ ] Oluşturulan `kullanici-katilimi` klasörüne girin.
-- [ ] `npm` yi kullanarak, aşağıdaki bağımlılıkları React appinize ekleyin:
+- [+] Forklayın, klonlayın, klasöre girin.
+- [+] `npx create-react-app kullanici-katilimi` komutuyla boş bir çalışma başlatın.
+- [+] Oluşturulan `kullanici-katilimi` klasörüne girin.
+- [+] `npm` yi kullanarak, aşağıdaki bağımlılıkları React appinize ekleyin:
   - `yup`
   - `axios`
 - [ ] `Form.js` adında bir bileşen oluşturun, `App.js` dosyanıza import edin, ve bileşen için JSX lerinizi buraya yazın.
@@ -22,17 +22,17 @@
 
 Yeni bir kullanıcıyı sistemimize dahil etmek için bir form oluşturmak istiyoruz. Yeni kullanıcımız hakkında en azından aşağıdaki bilgilere ihtiyacımız var:
 
-- [ ] İsim (ismi, soyismi)
-- [ ] Email
-- [ ] Şifre
-- [ ] Kullanım Şartları (Terms of Service) (checkbox)
-- [ ] Gönder butonu (formu göndermek için).
+- [+] İsim (ismi, soyismi)
+- [+] Email
+- [+] Şifre
+- [+] Kullanım Şartları (Terms of Service) (checkbox)
+- [+] Gönder butonu (formu göndermek için).
 
 #### Form Validation(doğrulama) ve Hata Mesajları Uygulayın
 
 Form doğrulama, kullanıcıya bir uygulamanın ince elenmiş sık dokunmuş hissini veren yönlerinden biridir. Bunu göz önünde bulundurarak, aşağıdakileri uygulayın:
 
-- [ ] Yup'u kullanarak, _en az_ 2 adet doğrulama ve hata doğrulamada varsa ekranda gösterilecek hata mesajı ekleyin.
+- [+] Yup'u kullanarak, _en az_ 2 adet doğrulama ve hata doğrulamada varsa ekranda gösterilecek hata mesajı ekleyin.
 
 #### POST Request Oluşturun
 
