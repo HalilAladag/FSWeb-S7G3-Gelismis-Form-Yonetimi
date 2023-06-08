@@ -1,11 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
 import Form from './Form';
 
 function App() {
   return (
     <div>
-    <h>Sign Up</h> 
+    <h1>Sign Up</h1> 
     <Form /> 
     </div>
   );
